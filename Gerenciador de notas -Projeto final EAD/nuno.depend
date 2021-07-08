@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1625665224 source:e:\primeiros projetos c\nuno\main.c
+	"main.h"
+
+1625665224 source:e:\primeiros projetos c\nuno\menu.c
+	"main.h"
+
+1625693493 e:\primeiros projetos c\nuno\main.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<locale.h>
+	<string.h>
+
+1625144874 source:e:\primeiros projetos c\nuno\criar_turma.c
+	"main.h"
+
+1625666437 source:e:\primeiros projetos c\nuno\gerenciar_turma.c
+	"main.h"
+
+1625251274 source:e:\primeiros projetos c\nuno\clasifição_de_notas.c
+	"main.h"
+
+1625693169 source:e:\primeiros projetos c\nuno\clasificao_de_notas.c
+	"main.h"
+
+1625692771 source:e:\primeiros projetos c\nuno\funcao_turma.c
+	"main.h"
+
+1625524697 source:e:\primeiros projetos c\nuno\quick_sord.c
+	"main.h"
+
+1625691117 source:e:\primeiros projetos c\nuno\quick_sort.c
+	"main.h"
+
+1625693169 source:e:\primeiros projetos c\gerenciador de notas -projeto final ead\clasificao_de_notas.c
+	"main.h"
+
+1625693493 e:\primeiros projetos c\gerenciador de notas -projeto final ead\main.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<locale.h>
+	<string.h>
+
+1625692771 source:e:\primeiros projetos c\gerenciador de notas -projeto final ead\funcao_turma.c
+	"main.h"
+
+1625693493 source:e:\primeiros projetos c\gerenciador de notas -projeto final ead\menu.c
+	"main.h"
+
+1625691117 source:e:\primeiros projetos c\gerenciador de notas -projeto final ead\quick_sort.c
+	"main.h"
+
